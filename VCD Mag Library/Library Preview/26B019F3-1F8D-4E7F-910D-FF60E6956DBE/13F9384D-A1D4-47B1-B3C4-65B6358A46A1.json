@@ -32,10 +32,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "79F7B870-3A79-4D3B-B8E7-A07DAB0BB6BE",
+  "do_objectID": "13F9384D-A1D4-47B1-B3C4-65B6358A46A1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "50387B2D-E497-4A57-9B03-F95525E6B2A6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,10 +47,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "612D9617-ABCA-4CB0-A94D-872C944E05A9",
     "height": 43,
     "width": 161,
     "x": 20,
-    "y": 117
+    "y": 6
   },
   "glyphBounds": "{{-1, 8}, {160, 28}}",
   "isFixedToViewport": false,
@@ -59,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VCD MAG",
+  "name": "VCD MAG Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,11 +69,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "12C66756-C05B-43F4-8E86-A3D3FE753335",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "35A20845-7E97-4068-960B-070F04BDB70C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

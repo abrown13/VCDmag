@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.1385422945022583,
+            "green": 0.6503673195838928,
+            "red": 0.9617109894752502
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -32,10 +32,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "79F7B870-3A79-4D3B-B8E7-A07DAB0BB6BE",
+  "do_objectID": "0744D674-5F3D-4038-AE1A-4EE8E00B6A2B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EF24C26C-5B71-4DF9-B0A1-53CBCE08D13A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -46,10 +47,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4E0DA4CE-7E40-49C1-842B-66E81751A35D",
     "height": 43,
     "width": 161,
     "x": 20,
-    "y": 117
+    "y": 80
   },
   "glyphBounds": "{{-1, 8}, {160, 28}}",
   "isFixedToViewport": false,
@@ -59,7 +61,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "VCD MAG",
+  "name": "VCD MAG Copy",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -67,18 +69,20 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D5DB2E0D-6DBB-4C0A-BA23-3996E8EC6714",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "6518EDEA-2CAC-4331-BAB4-A37F9F943A01",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.1385422945022583,
+          "green": 0.6503673195838928,
+          "red": 0.9617109894752502
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

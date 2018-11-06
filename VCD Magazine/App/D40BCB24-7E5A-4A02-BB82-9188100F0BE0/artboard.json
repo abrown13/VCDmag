@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "26B019F3-1F8D-4E7F-910D-FF60E6956DBE",
+  "do_objectID": "D40BCB24-7E5A-4A02-BB82-9188100F0BE0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 200,
-    "x": 193,
-    "y": 58
+    "height": 427,
+    "width": 320,
+    "x": 332,
+    "y": -79
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,27 +48,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "79F7B870-3A79-4D3B-B8E7-A07DAB0BB6BE"
-    },
-    {
-      "class": "text",
-      "id": "0744D674-5F3D-4038-AE1A-4EE8E00B6A2B"
-    },
-    {
-      "class": "text",
-      "id": "D744FDE9-6061-4158-B285-CE2F4634214F"
-    },
-    {
-      "class": "text",
-      "id": "13F9384D-A1D4-47B1-B3C4-65B6358A46A1"
+      "class": "symbolInstance",
+      "id": "D0B548CE-1712-4663-8ACC-4FB2A9314CAE"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Splash Screen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 320
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

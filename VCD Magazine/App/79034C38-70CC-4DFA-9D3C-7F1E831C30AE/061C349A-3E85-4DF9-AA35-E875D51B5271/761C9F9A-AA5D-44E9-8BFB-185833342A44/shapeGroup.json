@@ -1,7 +1,8 @@
 {
-  "_class": "page",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
-  "do_objectID": "76ED942C-E96C-4019-A70C-53726D82A938",
+  "clippingMaskMode": 0,
+  "do_objectID": "761C9F9A-AA5D-44E9-8BFB-185833342A44",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,28 +15,26 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 1452,
+    "width": 218,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -560,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
+  "hasClippingMask": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
+    {
+      "class": "shapePath",
+      "id": "F789F8C0-BDA7-4F72-AD80-94645DF332E8"
+    }
   ],
-  "name": "Page 2",
+  "name": "Duplicate control",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,10 +47,13 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -502,
-    "guides": [
-    ]
-  }
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "args": {
+        "verticalCount": 11,
+        "verticalGutter": 4
+      }
+    }
+  },
+  "windingRule": 1
 }

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "26B019F3-1F8D-4E7F-910D-FF60E6956DBE",
+  "do_objectID": "99133671-DC3B-4A50-B047-39AFA764BFC0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 160,
-    "width": 200,
-    "x": 193,
-    "y": 58
+    "height": 26,
+    "width": 159,
+    "x": -249,
+    "y": -309
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,24 +45,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "79F7B870-3A79-4D3B-B8E7-A07DAB0BB6BE"
-    },
-    {
-      "class": "text",
-      "id": "0744D674-5F3D-4038-AE1A-4EE8E00B6A2B"
-    },
-    {
-      "class": "text",
-      "id": "D744FDE9-6061-4158-B285-CE2F4634214F"
-    },
-    {
-      "class": "text",
-      "id": "13F9384D-A1D4-47B1-B3C4-65B6358A46A1"
+      "class": "symbolInstance",
+      "id": "D03FCB22-82AA-4B6F-BFD3-02196E8D5554"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Logo",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
