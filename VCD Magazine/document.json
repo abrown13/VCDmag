@@ -1808,7 +1808,8 @@
     "version": 105
   },
   "pages": [
-    "App"
+    "App",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
