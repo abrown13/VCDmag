@@ -1,7 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "AA42293C-3ADC-4D44-8EAA-3AD4EB4075B6",
+  "do_objectID": "3A4C10AB-451F-43ED-82E2-8A5F1BD93A8C",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -379,
     "guides": [
     ]
   },
@@ -35,24 +35,40 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "D40BCB24-7E5A-4A02-BB82-9188100F0BE0"
+      "class": "symbolMaster",
+      "id": "06F1FCFF-41BD-4E2C-A011-6E5453B4F759"
     },
     {
-      "class": "artboard",
-      "id": "79034C38-70CC-4DFA-9D3C-7F1E831C30AE"
+      "class": "symbolMaster",
+      "id": "93948F2D-7F36-4FA4-823F-D4303D3450AA"
     },
     {
-      "class": "artboard",
-      "id": "4E873DDB-C187-45B8-BD18-416B1C968BD6"
+      "class": "symbolMaster",
+      "id": "B076AA93-E47B-4D8B-9C4A-44F165B3D86E"
     },
     {
-      "class": "artboard",
-      "id": "74796820-1082-4FAE-A688-8C6D477D7C9C"
+      "class": "symbolMaster",
+      "id": "D45224E5-6326-4704-ADA5-B1EEBB63D6BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BF34226D-FCA6-464E-B56E-0960C7E12C2A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5B6F7729-E0E6-41B0-AA1B-010C86682FF3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F5A92956-CDCB-48E7-A010-3A21D547D2F4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "21F86682-3521-472C-8CDF-ECAAE9F68221"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "Symbols",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -66,7 +82,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -480,
     "guides": [
     ]
   }

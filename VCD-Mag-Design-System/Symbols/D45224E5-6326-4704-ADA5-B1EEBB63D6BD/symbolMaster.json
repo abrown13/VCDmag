@@ -1,7 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": -1,
-  "do_objectID": "AA42293C-3ADC-4D44-8EAA-3AD4EB4075B6",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 8,
+  "do_objectID": "D45224E5-6326-4704-ADA5-B1EEBB63D6BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 32,
+    "width": 32,
+    "x": 1300,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,37 +35,29 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "D40BCB24-7E5A-4A02-BB82-9188100F0BE0"
-    },
-    {
-      "class": "artboard",
-      "id": "79034C38-70CC-4DFA-9D3C-7F1E831C30AE"
-    },
-    {
-      "class": "artboard",
-      "id": "4E873DDB-C187-45B8-BD18-416B1C968BD6"
-    },
-    {
-      "class": "artboard",
-      "id": "74796820-1082-4FAE-A688-8C6D477D7C9C"
+      "class": "shapeGroup",
+      "id": "ABE9080E-822F-44D7-991A-86CF7D1EA5A5"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "COLOR/ black",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -64,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "33828F93-D762-4FA3-91B7-6533034692F9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

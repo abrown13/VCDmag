@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "AA42293C-3ADC-4D44-8EAA-3AD4EB4075B6",
+  "changeIdentifier": 3,
+  "do_objectID": "B076AA93-E47B-4D8B-9C4A-44F165B3D86E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 128,
+    "width": 218,
+    "x": 782,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,37 +35,37 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "D40BCB24-7E5A-4A02-BB82-9188100F0BE0"
+      "class": "shapeGroup",
+      "id": "6C98B811-CEA8-4758-A41B-30D15334EF51"
     },
     {
-      "class": "artboard",
-      "id": "79034C38-70CC-4DFA-9D3C-7F1E831C30AE"
+      "class": "text",
+      "id": "5E9AAA54-7F6E-43F8-BF32-20973E563038"
     },
     {
-      "class": "artboard",
-      "id": "4E873DDB-C187-45B8-BD18-416B1C968BD6"
-    },
-    {
-      "class": "artboard",
-      "id": "74796820-1082-4FAE-A688-8C6D477D7C9C"
+      "class": "text",
+      "id": "5F2569AD-1FA0-4ADF-846D-95D018C9D6E3"
     }
   ],
-  "name": "App",
-  "nameIsFixed": true,
+  "name": "student/list",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -64,6 +73,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "7D863ECF-8F81-4942-89AC-D3BBC78A4093",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
